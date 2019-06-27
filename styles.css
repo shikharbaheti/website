@@ -2,3 +2,10 @@ body
 {
     background-color: aqua;
 }
+
+#title-name
+{
+font: monospace;
+size: 72px;
+align-content: center;
+}
