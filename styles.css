@@ -3,9 +3,9 @@ body
     background-color: aqua;
 }
 
-#title-name
+h1#title-name
 {
-font: monospace;
-size: 72px;
-align-content: center;
+    font-family: 'Righteous', serif;
+    align-self: center;
+    color: red;
 }
