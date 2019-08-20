@@ -1,4 +1,3 @@
-$(document).ready(function(){
-      $("#home-page").fadeIn();
-    });
-  });
+$(document).ready(function() {
+  $("body").addClass("animated shake");
+});

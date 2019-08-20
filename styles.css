@@ -1,11 +1,29 @@
-.vertical-center {
-    min-height: 100%;  /* Fallback for browsers do NOT support vh unit */
-    min-height: 100vh; /* These two lines are counted as one :-)       */
-  
-    display: flex;
-    align-items: center;
+  .navbar {
+    background-color: #F4976C;
   }
 
-  .navbar {
-    background-color: pink;
+  body{
+    background-color: #FBE8A6;
   }
+
+  #footer-stuff{
+    background-color: #F4976C;
+  }
+
+ #navbar-brand{
+    color: blue;
+  }
+
+  /* More colors
+  #303C6C
+  #B4DFE5
+  #D2FDFF 
+  */
+
+body {
+    font-family: 'Quicksand', sans-serif;
+  }
+
+#under-construction {
+  background-color: red;
+}
