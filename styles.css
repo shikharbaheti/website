@@ -1,5 +1,6 @@
   .navbar {
     background-color: #F4976C;
+    color: blue;
   }
 
   body{
@@ -26,4 +27,27 @@ body {
 
 #under-construction {
   background-color: red;
+}
+
+.active {
+  font-weight: bold;
+  color: blue;
+}
+
+.navbar-text {
+  color: green;
+}
+
+.card {
+  background-color: #B4DFE5;
+}
+
+#tamu_logo {
+  width: 35px;
+  height: auto;
+}
+
+#my_photo {
+  width: auto;
+  height: auto;
 }
