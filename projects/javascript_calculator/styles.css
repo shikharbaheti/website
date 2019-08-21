@@ -1,0 +1,22 @@
+body{
+    background-color: #FBE8A6;
+  }
+
+.calculator-keys {
+    width: 400px;
+}
+
+#equal_sign{
+    height: 250px;
+}
+
+.jumbotron {
+    background-color: #B4DFE5;
+    margin-top: 50px ;
+    width: 500px;
+
+}
+
+.calculator-screen {
+    margin: 10px;
+}
