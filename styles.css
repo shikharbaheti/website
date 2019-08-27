@@ -51,3 +51,11 @@ body {
   width: auto;
   height: auto;
 }
+
+#courses{
+  width: 700px;
+}
+
+.card-header{
+  background-color: #D2FDFF;
+}
