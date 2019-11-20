@@ -68,3 +68,9 @@ border-radius: 8%;
 height: auto;
 border: 1px solid #ddd;
 }
+
+.contact_logos {
+  width: auto;
+  height: 50px;
+  padding: 5px;
+}
