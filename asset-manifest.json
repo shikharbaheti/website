@@ -1,27 +1,33 @@
 {
   "files": {
-    "main.css": "/static/css/main.833c02da.chunk.css",
-    "main.js": "/static/js/main.c88ad5e0.chunk.js",
-    "main.js.map": "/static/js/main.c88ad5e0.chunk.js.map",
+    "main.css": "/static/css/main.e6502305.chunk.css",
+    "main.js": "/static/js/main.aca6694f.chunk.js",
+    "main.js.map": "/static/js/main.aca6694f.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.94a6af97.js",
     "runtime-main.js.map": "/static/js/runtime-main.94a6af97.js.map",
     "static/css/2.af3c1da9.chunk.css": "/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.37c4056b.chunk.js": "/static/js/2.37c4056b.chunk.js",
-    "static/js/2.37c4056b.chunk.js.map": "/static/js/2.37c4056b.chunk.js.map",
+    "static/js/2.4de9a35f.chunk.js": "/static/js/2.4de9a35f.chunk.js",
+    "static/js/2.4de9a35f.chunk.js.map": "/static/js/2.4de9a35f.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.ceadbbf153077b04a3e23c37bda98240.js": "/precache-manifest.ceadbbf153077b04a3e23c37bda98240.js",
+    "precache-manifest.9acf2e921c2b22cf01c4feacc296cc01.js": "/precache-manifest.9acf2e921c2b22cf01c4feacc296cc01.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.833c02da.chunk.css.map": "/static/css/main.833c02da.chunk.css.map",
-    "static/js/2.37c4056b.chunk.js.LICENSE.txt": "/static/js/2.37c4056b.chunk.js.LICENSE.txt",
+    "static/css/main.e6502305.chunk.css.map": "/static/css/main.e6502305.chunk.css.map",
+    "static/js/2.4de9a35f.chunk.js.LICENSE.txt": "/static/js/2.4de9a35f.chunk.js.LICENSE.txt",
+    "static/media/aquarium.png": "/static/media/aquarium.29e20b04.png",
+    "static/media/div_it.jpg": "/static/media/div_it.29121b37.jpg",
+    "static/media/flavourlogo.png": "/static/media/flavourlogo.e5454e51.png",
     "static/media/instagram.png": "/static/media/instagram.0e84d592.png",
-    "static/media/myPhoto.jpg": "/static/media/myPhoto.9fa9df94.jpg"
+    "static/media/molecula-logo.jpg": "/static/media/molecula-logo.766caf2c.jpg",
+    "static/media/myPhoto.jpg": "/static/media/myPhoto.9fa9df94.jpg",
+    "static/media/portfolio.PNG": "/static/media/portfolio.3a9046d1.PNG",
+    "static/media/society-hub.PNG": "/static/media/society-hub.dfafbf11.PNG"
   },
   "entrypoints": [
     "static/js/runtime-main.94a6af97.js",
     "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.37c4056b.chunk.js",
-    "static/css/main.833c02da.chunk.css",
-    "static/js/main.c88ad5e0.chunk.js"
+    "static/js/2.4de9a35f.chunk.js",
+    "static/css/main.e6502305.chunk.css",
+    "static/js/main.aca6694f.chunk.js"
   ]
 }
