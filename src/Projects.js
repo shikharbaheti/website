@@ -1,5 +1,8 @@
 import React from 'react';
-import { Card, CardDeck, Button, Row } from 'react-bootstrap';
+import { Card, CardDeck, Button, Row, Image } from 'react-bootstrap';
+import societyhub from './images/society-hub.PNG'
+import flavor from './images/flavourlogo.png'
+import portfolio from './images/portfolio.PNG'
 import './Projects.css';
 
 function Projects() {
@@ -17,6 +20,8 @@ function Projects() {
                             <Card.Body>
                                 <Card.Title><b>Flavor</b></Card.Title>
                                 <Card.Text>
+                                    <Image className="projects-photo" src={flavor} fluid />
+                                    <br></br>
                                     Flavor is an app created for the Capital One Software Engineering Summit 2020. The app utilizes Yelp's Fusion API to search and return businesses based on the location inputs of the user. The app displays the locations of the businesses on a Google Maps API map and uses Geocoding to translate coordinates to text and vice versa.
                             </Card.Text>
                             </Card.Body>
@@ -30,6 +35,8 @@ function Projects() {
                             <Card.Body>
                                 <Card.Title><b>Society Hub</b></Card.Title>
                                 <Card.Text>
+                                    <Image className="projects-photo" src={societyhub} fluid />
+                                    <br></br>
                                     Created a website for the Student Engineers' Council for engineering students at Texas A&M University. Working along with a team of 3 members, constructed a website for different engineering student organizations at Texas A&M to collaborate and share events for general public to view. I worked on the Front-end of the website utilizing my knowledge of ReactJs, HTML, CSS, and the Bootstrap framework.
                             </Card.Text>
                             </Card.Body>
@@ -41,8 +48,10 @@ function Projects() {
                         <Card className="projects-card">
                             {/* <Card.Img variant="top" src={Flavor} /> */}
                             <Card.Body>
-                                <Card.Title><b>Porfolio website</b></Card.Title>
+                                <Card.Title><b>Personal website</b></Card.Title>
                                 <Card.Text>
+                                    <Image className="projects-photo" src={portfolio} fluid />
+                                    <br></br>
                                     Created a personal portfolio website from scratch using , ReactJS with the React-Bootstrap framework.
                             </Card.Text>
                             </Card.Body>

@@ -6,6 +6,12 @@
   background-color: #FFFFF0;
 }
 
+.projects-photo{
+  width: 180px;
+  height: auto;
+  padding: 5px;
+}
+
 /* .projects-row {
   padding-top: 2rem;
 } */
