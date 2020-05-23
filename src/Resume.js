@@ -13,7 +13,7 @@ function Resume() {
                     <a href="resume.pdf" rel="noopener noreferrer" target="_blank"><Button variant="primary" size="lg">
                         Résumé
                     </Button>{' '}</a>
-                    <a href="mailto:shikhar@tamu.edu"><Button variant="secondary" size="lg">
+                    <a href="mailto:shikhar@tamu.edu"><Button variant="success" size="lg">
                         Email
                     </Button></a>
 

@@ -1,6 +1,9 @@
 import React from 'react';
-import { Card, Row, CardDeck } from 'react-bootstrap';
+import { Card, Row, CardDeck, Image } from 'react-bootstrap';
 import './Involvement.css';
+import molecula from './images/molecula-logo.jpg'
+import div_it from './images/div_it.jpg'
+import aquarium from './images/aquarium.png'
 
 function Involvement() {
     return (
@@ -19,11 +22,13 @@ function Involvement() {
                                 <Card.Title><b>Molecula</b></Card.Title>
                                 <h4 className="display-6">Software Engineering Intern</h4>
                                 <Card.Text>
+                                    <Image className="involvement-photo" src={molecula} fluid />
+                                    <br></br>
                                     As a software engineering intern, I collaborated closely with full-time senior engineers. I contribued to Open-Source software and learned about Open-Souce business models, managed services, and commercializing a SaaS cloud offering.
                             </Card.Text>
                             </Card.Body>
                             <Card.Footer id="involvement-footer">
-                                May 2020 - August 2020
+                                May 2020 - Present
                             </Card.Footer>
                         </Card>
                         <Card className="involvement-card">
@@ -31,6 +36,8 @@ function Involvement() {
                                 <Card.Title><b>Texas A&M Division of IT</b></Card.Title>
                                 <h4 className="display-6">IT Student Technician</h4>
                                 <Card.Text>
+                                    <Image className="involvement-photo" src={div_it} fluid />
+                                    <br></br>
                                     I learned how to solve software and hardware issues for Texas A&M Health Science Center which encompass 3 buildings staffed with more than 500 employees and 2000 students.
                                     I learned how to work in a team setting effectively communicating tasks and information in a fast-paced environment. Learned technical IT support knowledge such as how to image computers, encrypt and decrypt using AirWatch, setup DUO authentication, remotely assist users through BOMGAR, utilizing an Active Directory, etc. I am now proficient in utilizing the ServiceNow ticketing system. I assisted, on an average, about 20 users a day with technical troubleshooting at the help desk and answered phone calls to remotely assist users.
                             </Card.Text>
@@ -41,14 +48,17 @@ function Involvement() {
                         </Card>
                         <Card className="involvement-card">
                             <Card.Body>
-                                <Card.Title><b>Volkswagen Chattanooga</b></Card.Title>
-                                <h4 className="display-6">Peer Mentor</h4>
+                                <Card.Title><b>Tennessee Aquarium</b></Card.Title>
+                                <h4 className="display-6">Student Volunteer</h4>
                                 <Card.Text>
-                                    During the senior year of high school, I assisted my peers with the fabrication of various projects in our FabLab at Red Bank High School. I am proficient with 3D printing, CNC machine operations, and laser engraving.
+                                    <Image className="involvement-photo" src={aquarium} fluid />
+                                    <br></br>
+                                    As a Youth Volunteer at the Tennessee Aquarium, I guided visitors through various exhibits of the aquarium and demonstrated excellent customer service. I learned a lot about marine biology and had great interactions with the guests informing them about wildlife conservation efforts. My favorite exhibits at the Tennessee Aquarium were the Coral Reef, Fresh Water Tank, and the Penguins.
+                                    Note: Acceptance to this program is very competitive requiring an extended application and an interview process.
                             </Card.Text>
                             </Card.Body>
                             <Card.Footer id="involvement-footer">
-                                June 2017 - May 2018
+                                June 2017 - August 2018
                             </Card.Footer>
                         </Card>
                     </CardDeck>
