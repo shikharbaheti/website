@@ -1,6 +1,6 @@
 {
   "name": "website",
-  "homepage": "https://shikharbaheti.net",
+  "homepage": "https://shikharbaheti.github.io",
   "version": "2.0.0",
   "private": true,
   "dependencies": {

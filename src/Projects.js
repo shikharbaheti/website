@@ -27,7 +27,7 @@ function Projects() {
                             </Card.Body>
                             <Card.Footer id="projects-footer">
                                 <a href="https://flavorproject.herokuapp.com" rel="noopener noreferrer" target="_blank"><Button variant="primary">Link</Button>{' '}</a>
-                                <a href="https://github.com/shikharbaheti/flavor" rel="noopener noreferrer" target="_blank"><Button variant="secondary">Github</Button>{' '}</a>
+                                <a href="https://github.com/shikharbaheti/flavor" rel="noopener noreferrer" target="_blank"><Button variant="dark">Github</Button>{' '}</a>
                             </Card.Footer>
                         </Card>
                         <Card className="projects-card">
@@ -42,7 +42,7 @@ function Projects() {
                             </Card.Body>
                             <Card.Footer id="projects-footer">
                                 <Button variant="danger">Under construction</Button>{' '}
-                                <a href="https://github.com/secsysadmin/engineering-societies" rel="noopener noreferrer" target="_blank"><Button variant="secondary">Github</Button>{' '}</a>
+                                <a href="https://github.com/secsysadmin/engineering-societies" rel="noopener noreferrer" target="_blank"><Button variant="dark">Github</Button>{' '}</a>
                             </Card.Footer>
                         </Card>
                         <Card className="projects-card">
@@ -57,7 +57,7 @@ function Projects() {
                             </Card.Body>
                             <Card.Footer id="projects-footer">
                                 <a href="https://shikharbaheti.net" rel="noopener noreferrer" target="_blank"><Button variant="primary">Link</Button>{' '}</a>
-                                <a href="https://github.com/shikharbaheti/website" rel="noopener noreferrer" target="_blank"><Button variant="secondary">Github</Button>{' '}</a>
+                                <a href="https://github.com/shikharbaheti/website" rel="noopener noreferrer" target="_blank"><Button variant="dark">Github</Button>{' '}</a>
                             </Card.Footer>
                         </Card>
                     </CardDeck>
