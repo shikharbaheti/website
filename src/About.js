@@ -17,12 +17,13 @@ function About() {
                                 <Card.Text>
                                     <h5>
                                         <p>I am passionate about baseball, sociology, and technology.</p>
-                                        <p>I want to either work in cybersecurity or software development when I graduate from A&M.</p>
+                                        <p>I am interested in the fields of cybersecurity and software development.
+                                        </p>
                                         <p>
                                             <b>Languages:</b> Python, C++, JavaScript, HTML, CSS, and Verilog.
                                         </p>
                                         <p>
-                                            <b>Frameworks:</b> ReactJS, jQuery, NumPy, Bootstrap, Flask, and Node.js
+                                            <b>Frameworks:</b> ReactJS, jQuery, NumPy, Bootstrap, Flask, Node.js, and MongoDB
                                         </p>
                                         <p>
                                             <b>Tools:</b> Git, VSCode, Google Suite, Cloud Platform Services (AWS and GCloud)
