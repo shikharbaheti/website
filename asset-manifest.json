@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.bddfe89a.chunk.css",
-    "main.js": "/static/js/main.9cca2937.chunk.js",
-    "main.js.map": "/static/js/main.9cca2937.chunk.js.map",
+    "main.css": "/static/css/main.f4e8f3e2.chunk.css",
+    "main.js": "/static/js/main.941f827b.chunk.js",
+    "main.js.map": "/static/js/main.941f827b.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.94a6af97.js",
     "runtime-main.js.map": "/static/js/runtime-main.94a6af97.js.map",
     "static/css/2.af3c1da9.chunk.css": "/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.ec2bb977.chunk.js": "/static/js/2.ec2bb977.chunk.js",
-    "static/js/2.ec2bb977.chunk.js.map": "/static/js/2.ec2bb977.chunk.js.map",
+    "static/js/2.b574d465.chunk.js": "/static/js/2.b574d465.chunk.js",
+    "static/js/2.b574d465.chunk.js.map": "/static/js/2.b574d465.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.dd45663ef0cb2b14724447c42d455a19.js": "/precache-manifest.dd45663ef0cb2b14724447c42d455a19.js",
+    "precache-manifest.ff92dd7f1493ee74fbf9e3886e411d14.js": "/precache-manifest.ff92dd7f1493ee74fbf9e3886e411d14.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.bddfe89a.chunk.css.map": "/static/css/main.bddfe89a.chunk.css.map",
-    "static/js/2.ec2bb977.chunk.js.LICENSE.txt": "/static/js/2.ec2bb977.chunk.js.LICENSE.txt",
+    "static/css/main.f4e8f3e2.chunk.css.map": "/static/css/main.f4e8f3e2.chunk.css.map",
+    "static/js/2.b574d465.chunk.js.LICENSE.txt": "/static/js/2.b574d465.chunk.js.LICENSE.txt",
     "static/media/alot.jpg": "/static/media/alot.6bfa2845.jpg",
     "static/media/aquarium.png": "/static/media/aquarium.29e20b04.png",
     "static/media/big_event.jpg": "/static/media/big_event.94955f2a.jpg",
+    "static/media/cap1.png": "/static/media/cap1.98f6f887.png",
     "static/media/college_of_engr.png": "/static/media/college_of_engr.01b1373a.png",
+    "static/media/csce.png": "/static/media/csce.ff456ea3.png",
     "static/media/div_it.jpg": "/static/media/div_it.29121b37.jpg",
     "static/media/flavourlogo.png": "/static/media/flavourlogo.e5454e51.png",
     "static/media/flc.jpg": "/static/media/flc.cb905a90.jpg",
@@ -32,8 +34,8 @@
   "entrypoints": [
     "static/js/runtime-main.94a6af97.js",
     "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.ec2bb977.chunk.js",
-    "static/css/main.bddfe89a.chunk.css",
-    "static/js/main.9cca2937.chunk.js"
+    "static/js/2.b574d465.chunk.js",
+    "static/css/main.f4e8f3e2.chunk.css",
+    "static/js/main.941f827b.chunk.js"
   ]
 }
