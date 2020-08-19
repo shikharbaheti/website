@@ -20,13 +20,13 @@ function About() {
                                         <p>I am interested in the fields of cybersecurity and software development.
                                         </p>
                                         <p>
-                                            <b>Languages:</b> Python, C++, JavaScript, HTML, CSS, and Verilog.
+                                            <b>Languages:</b> Python, C++, JavaScript, Golang, HTML, CSS, SQL, and Verilog
                                         </p>
                                         <p>
-                                            <b>Frameworks:</b> ReactJS, jQuery, NumPy, Bootstrap, Flask, Node.js, and MongoDB
+                                            <b>Frameworks:</b> React.js, jQuery, NumPy, Bootstrap, Docker, Flask, Firebase and Node.js
                                         </p>
                                         <p>
-                                            <b>Tools:</b> Git, VSCode, Google Suite, Cloud Platform Services (AWS and GCloud)
+                                            <b>Tools:</b>  Git, Agile, Slack, Linux, Google Cloud Platform, Docker, and RESTful APIs
                                         </p>
                                     </h5>
                                 </Card.Text>

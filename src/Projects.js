@@ -4,19 +4,17 @@ import societyhub from './images/society-hub.PNG'
 import flavor from './images/flavourlogo.png'
 import portfolio from './images/portfolio.PNG'
 import './Projects.css';
-
 function Projects() {
     return (
         <div className="Projects" id="projects">
+            <projectImages />
             <div className="text-center mt-3">
                 <h1 className="display-3">
                     Projects
                 </h1>
-                {/* <Row className="projects-row"> */}
                 <Row>
                     <CardDeck>
                         <Card className="projects-card">
-                            {/* <Card.Img variant="top" src={Flavor} /> */}
                             <Card.Body>
                                 <Card.Title><b>Flavor</b></Card.Title>
                                 <Card.Text>
@@ -31,7 +29,6 @@ function Projects() {
                             </Card.Footer>
                         </Card>
                         <Card className="projects-card">
-                            {/* <Card.Img variant="top" src={Flavor} /> */}
                             <Card.Body>
                                 <Card.Title><b>Society Hub</b></Card.Title>
                                 <Card.Text>
@@ -46,7 +43,6 @@ function Projects() {
                             </Card.Footer>
                         </Card>
                         <Card className="projects-card">
-                            {/* <Card.Img variant="top" src={Flavor} /> */}
                             <Card.Body>
                                 <Card.Title><b>Personal website</b></Card.Title>
                                 <Card.Text>
@@ -66,5 +62,7 @@ function Projects() {
         </div>
     );
 }
+
+
 
 export default Projects;

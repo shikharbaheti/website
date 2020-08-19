@@ -19,7 +19,7 @@ function Main() {
                 <a href="https://www.instagram.com/shikharbaheti/" rel="noopener noreferrer" target="_blank"><img alt="instagram" src={instagram} class="contact_logos" /></a>
                 <a href="https://www.facebook.com/shikharbaheti" rel="noopener noreferrer" target="_blank"><img alt="facebook" src={facebook} class="contact_logos" /></a>
             </div>
-        </div >
+        </div>
     );
 }
 
