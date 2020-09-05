@@ -36,10 +36,10 @@ function Involvement() {
                                         As a software engineering intern, I collaborated closely with full-time senior engineers. I contribued to Open-Source software and learned about Open-Souce business models, managed services, and commercializing a SaaS cloud offering.
                                     </p>
                                     <ul class="list-group">
-                                        <li class="list-group-item">Assisted the Senior Solution Architect in building a tool in Python to demonstrate the value proposition of Molecula Software, reducing database query times to an average of 10 milliseconds</li>
-                                        <li class="list-group-item">Created an internal tool to load test and compare Molecula software versions, enabling faster tracking of performance and accuracy regression by 15%</li>
+                                        <li class="list-group-item">Implemented a Python tool to demonstrate the value proposition of Molecula Software, reducing database query times to an average of 10 milliseconds from 150 milliseconds</li>
+                                        <li class="list-group-item">Enabled faster tracking of performance and accuracy regression by 15% with a new internal tool in Golang to load test and compare Molecula software versions</li>
                                         <li class="list-group-item">Worked on projects with large datasets (of 5+ terabyte-scale) from Fortune 100 companies to help them evaluate Molecula software</li>
-                                        <li class="list-group-item"> Developed a documentation website for the Molecula software using React.js and Docker to be used by the engineering team of 12 and 40+ clients</li>
+                                        <li class="list-group-item">Developed a documentation website for the Molecula software using React.js and Docker to be used by the engineering team of 12 and 40+ clients</li>
                                         <li class="list-group-item">Used JavaScript, Python, and Go, along with industry-standard and company proprietary APIs to build tools for internal testing and customer demonstrations using the Agile methodology</li>
                                     </ul>
                                 </Card.Text>
