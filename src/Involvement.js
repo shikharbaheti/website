@@ -166,7 +166,7 @@ function Involvement() {
                                     <br></br>
                                     <p>
                                         <ul class="list-group">
-                                            <li class="list-group-item">I was selected from over 600 engineering student applicants be a member of the Zachry Leadership Program</li>
+                                            <li class="list-group-item">I was selected from over 300 engineering student applicants be a member of the Zachry Leadership Program</li>
                                             <li class="list-group-item">The Zachry Leadership Program is a partnership between the College of Engineering at Texas A&M University and the Zachry Group</li>
                                             <li class="list-group-item">The founding premise of the five-semester program is that technical knowledge alone is insufficient to prepare engineering graduates to make the high-impact contributions needed in today’s rapidly changing world</li>
                                             <li class="list-group-item">Maximizing your potential requires holistic development, a broader and deeper level of personal awareness and enhanced leadership skills</li>
