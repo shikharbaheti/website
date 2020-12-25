@@ -26,7 +26,7 @@ function App() {
           <Route exact path="/involvement">
             <Involvement />
           </Route>
-          <Route path="/">
+          <Route exact path="/">
             <Main />
           </Route>
         </Switch>
