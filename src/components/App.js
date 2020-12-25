@@ -2,7 +2,7 @@ import React from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
 import {
-  BrowserRouter as Router,
+  HashRouter as Router,
   Switch,
   Route,
 } from "react-router-dom";
@@ -14,23 +14,24 @@ import Projects from './Projects/Projects';
 
 function App() {
   return (
-    <Router>
-      <div>
-        <Switch>
-          <Route exact path="/experience">
-            <Experience />
-          </Route>
-          <Route exact path="/projects">
-            <Projects />
-          </Route>
-          <Route exact path="/involvement">
-            <Involvement />
-          </Route>
-          <Route exact path="/">
-            <Main />
-          </Route>
-        </Switch>
-      </div>
+    <Router basename={process.env.PUBLIC_URL}>
+      <Switch>
+        <Route exact path="/">
+          <Main />
+        </Route>
+        <Route path='/experience'>
+          <Experience />
+        </Route>
+        <Route path='/projects'>
+          <Projects />
+        </Route>
+        <Route path='/involvement'>
+          <Involvement />
+        </Route>
+        <Route>
+          <Main />
+        </Route>
+      </Switch>
     </Router>
   );
 }
