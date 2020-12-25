@@ -5,9 +5,7 @@ import github from '../../images/github.png'
 import facebook from '../../images/facebook.png'
 import linkedin from '../../images/linkedin.png'
 import instagram from '../../images/instagram.png'
-import {
-    Link
-} from "react-router-dom";
+import { Link } from "react-router-dom";
 
 function Main() {
     return (

@@ -1,8 +1,7 @@
 import React from 'react';
 import { Container, Card, Row, CardDeck, Image } from 'react-bootstrap';
-import {
-    Link
-} from "react-router-dom";
+import { Link } from "react-router-dom";
+import './Involvement.css';
 import sec from '../../images/sec.png'
 import zlp from '../../images/college_of_engr.png'
 import tbe from '../../images/big_event.jpg'
