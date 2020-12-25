@@ -1,0 +1,15 @@
+.involvement-card {
+    border-radius: 20px !important;
+    /* margin-top: 2rem; */
+    margin: 2rem;
+  }
+  
+  .involvement-photo {
+    width: 180px;
+    height: auto;
+    padding: 5px;
+  }
+  
+  #involvement-footer {
+    background-color: #FFFFF0;
+  }

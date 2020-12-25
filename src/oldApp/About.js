@@ -1,5 +1,5 @@
 import React from 'react';
-import myPhoto from './images/myPhoto.jpg'
+import myPhoto from '../images/myPhoto.jpg'
 import { Col, Row, Card, Image } from 'react-bootstrap'
 import './About.css';
 

@@ -1,17 +1,19 @@
 import React from 'react';
 import { Card, Row, CardDeck, Image } from 'react-bootstrap';
 import './Involvement.css';
-import molecula from './images/molecula-logo.jpg'
-import div_it from './images/div_it.jpg'
-import aquarium from './images/aquarium.png'
-import sec from './images/sec.png'
-import zlp from './images/college_of_engr.png'
-import tbe from './images/big_event.jpg'
-import spencer from './images/msc_spencer.png'
-import flc from './images/flc.jpg'
-import mscalot from './images/alot.jpg'
-import csce from './images/csce.png'
-import cap1 from './images/cap1.png'
+// import mscalot from '.../images'
+
+import molecula from '../images/molecula-logo.jpg'
+import div_it from '../images/div_it.jpg'
+import aquarium from '../images/aquarium.png'
+import sec from '../images/sec.png'
+import zlp from '../images/college_of_engr.png'
+import tbe from '../images/big_event.jpg'
+import spencer from '../images/msc_spencer.png'
+import flc from '../images/flc.jpg'
+import mscalot from '../images/alot.jpg'
+import csce from '../images/csce.png'
+import cap1 from '../images/cap1.png'
 
 function Involvement() {
     return (
@@ -268,7 +270,7 @@ function Involvement() {
                     </CardDeck>
                 </Row>
             </div>
-        </div >
+        </div>
     );
 }
 export default Involvement;

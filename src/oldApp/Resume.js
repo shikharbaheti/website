@@ -13,7 +13,7 @@ function Resume() {
                     <div className="mb-2">
                         <a href="resume.pdf" rel="noopener noreferrer" target="_blank"><Button variant="primary" size="lg">
                             Résumé
-                    </Button>{' '}</a>
+                    </Button></a>
                         <a href="mailto:shikhar@tamu.edu"><Button variant="success" size="lg">
                             Email
                     </Button></a>

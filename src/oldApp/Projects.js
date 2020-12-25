@@ -1,8 +1,8 @@
 import React from 'react';
 import { Card, CardDeck, Button, Row, Image } from 'react-bootstrap';
-import societyhub from './images/society-hub.PNG'
-import flavor from './images/flavourlogo.png'
-import portfolio from './images/portfolio.PNG'
+import societyhub from '../images/society-hub.PNG'
+import flavor from '../images/flavourlogo.png'
+import portfolio from '../images/portfolio.PNG'
 import './Projects.css';
 function Projects() {
     return (

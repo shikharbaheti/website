@@ -1,8 +1,8 @@
 import React from 'react';
-import github from './images/github.png'
-import facebook from './images/facebook.png'
-import linkedin from './images/linkedin.png'
-import instagram from './images/instagram.png'
+import github from '../images/github.png'
+import facebook from '../images/facebook.png'
+import linkedin from '../images/linkedin.png'
+import instagram from '../images/instagram.png'
 import './Main.css';
 
 function Main() {

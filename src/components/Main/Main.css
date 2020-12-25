@@ -1,0 +1,17 @@
+.about {
+    font-size: 27px;
+}
+.contact_logos {
+    width: auto;
+    height: 55px;
+    margin: 5px;
+    padding: 5px;
+  }
+
+  .contact_logos:hover {
+    transform: scale(1.2);
+  }
+
+  .btn {
+    border-width: 2.5px;
+  }
