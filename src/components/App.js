@@ -19,7 +19,7 @@ function App() {
         <Route exact path="/">
           <Main />
         </Route>
-        <Route path='/experience'>
+        {/* <Route path='/experience'>
           <Experience />
         </Route>
         <Route path='/projects'>
@@ -27,7 +27,7 @@ function App() {
         </Route>
         <Route path='/involvement'>
           <Involvement />
-        </Route>
+        </Route> */}
         <Route>
           <Main />
         </Route>

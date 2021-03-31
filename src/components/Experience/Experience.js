@@ -19,7 +19,7 @@ function Experience() {
                 </Link>
                 <h3 className="display-3 mb-0">Experience</h3>
                 <div className="experience-cards text-center">
-                    <Row>
+                    <Row>   
                         <CardDeck>
                             <Card className="involvement-card">
                                 <Card.Body>

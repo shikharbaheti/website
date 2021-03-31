@@ -17,6 +17,9 @@ function Main() {
                         Hi, I am Shikhar! I am <b>junior</b> Computer Science major at <span style={{ 'color': '#500000' }}><b>Texas A&M University</b></span>.
                     </p>
                     <p>
+                        I am incoming software engineering intern at <span style={{ 'color': '#6000c2' }}><b>Castlight Health</b></span>.
+                    </p>
+                    <p>
                         I previously interned at <span style={{ 'color': '#004379' }}><b>Molecula</b></span> as a software engineering intern.
                     </p>
                     <p>
@@ -37,7 +40,7 @@ function Main() {
                             <a href="mailto:shikhar@tamu.edu">
                                 <Button variant="outline-dark" size="lg" className="navlinks m-2"><b>Contact</b></Button>
                             </a>
-                            <Link to="/experience">
+                            {/* <Link to="/experience">
                                 <Button variant="outline-dark" size="lg" className="navlinks m-2"><b>Experience</b></Button>
                             </Link>
                             <Link to="/projects">
@@ -45,7 +48,7 @@ function Main() {
                             </Link>
                             <Link to="/involvement">
                                 <Button variant="outline-dark" size="lg" className="navlinks m-2"><b>Involvement</b></Button>
-                            </Link>
+                            </Link> */}
                         </Col>
                         <Col>
                             <a href="https://github.com/shikharbaheti" rel="noopener noreferrer" target="_blank"><img alt="github" src={github} class="contact_logos" /></a>
