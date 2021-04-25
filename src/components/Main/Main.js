@@ -34,12 +34,12 @@ function Main() {
                 <div className="links text-center">
                     <Row>
                         <Col lg="auto">
-                            <a href="resume.pdf" rel="noopener noreferrer" target="_blank">
+                            {/* <a href="resume.pdf" rel="noopener noreferrer" target="_blank">
                                 <Button variant="outline-dark" size="lg" className="navlinks m-2"><b>Resume</b></Button>
-                            </a>
-                            <a href="mailto:shikhar@tamu.edu">
+                            </a> */}
+                            {/* <a href="mailto:shikhar@tamu.edu">
                                 <Button variant="outline-dark" size="lg" className="navlinks m-2"><b>Contact</b></Button>
-                            </a>
+                            </a> */}
                             {/* <Link to="/experience">
                                 <Button variant="outline-dark" size="lg" className="navlinks m-2"><b>Experience</b></Button>
                             </Link>
