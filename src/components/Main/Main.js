@@ -17,10 +17,7 @@ function Main() {
                         Hi, I am Shikhar! I am <b>junior</b> Computer Science major at <span style={{ 'color': '#500000' }}><b>Texas A&M University</b></span>.
                     </p>
                     <p>
-                        I am incoming software engineering intern at <span style={{ 'color': '#6000c2' }}><b>Castlight Health</b></span>.
-                    </p>
-                    <p>
-                        I previously interned at <span style={{ 'color': '#004379' }}><b>Molecula</b></span> as a software engineering intern.
+                        I previously interned at <span style={{ 'color': '#6000c2' }}><b>Castlight Health</b></span> and <span style={{ 'color': '#004379' }}><b>Molecula</b></span> as a software engineering intern.
                     </p>
                     <p>
                         I am interested in the fields of <b>software development</b>, cybersecurity, and product management.
@@ -33,13 +30,13 @@ function Main() {
 
                 <div className="links text-center">
                     <Row>
-                        <Col lg="auto">
-                            {/* <a href="resume.pdf" rel="noopener noreferrer" target="_blank">
+                        <Col>
+                            <a href="resume.pdf" rel="noopener noreferrer" target="_blank">
                                 <Button variant="outline-dark" size="lg" className="navlinks m-2"><b>Resume</b></Button>
-                            </a> */}
-                            {/* <a href="mailto:shikhar@tamu.edu">
-                                <Button variant="outline-dark" size="lg" className="navlinks m-2"><b>Contact</b></Button>
-                            </a> */}
+                            </a>
+                            <a href="mailto:shikhar@tamu.edu">
+                                <Button variant="outline-dark" size="lg" className="navlinks m-2"><b>E-mail</b></Button>
+                            </a>
                             {/* <Link to="/experience">
                                 <Button variant="outline-dark" size="lg" className="navlinks m-2"><b>Experience</b></Button>
                             </Link>
