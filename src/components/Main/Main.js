@@ -14,16 +14,13 @@ function Main() {
                 <h3 className="display-3">Shikhar Baheti</h3>
                 <div className="about">
                     <p>
-                        Hi, I am Shikhar! I am <b>junior</b> Computer Science major at <span style={{ 'color': '#500000' }}><b>Texas A&M University</b></span>.
+                        Hi! I am a <b>software development engineer 2</b> at <span style={{ 'color': '#ff9900' }}><b>Amazon</b> </span> based in <b>Austin, TX</b>.
                     </p>
                     <p>
-                        I previously interned at <span style={{ 'color': '#6000c2' }}><b>Castlight Health</b></span> and <span style={{ 'color': '#004379' }}><b>Molecula</b></span> as a software engineering intern.
+                        I graduated from <span style={{ 'color': '#500000' }}><b>Texas A&M University</b></span> with a <b>Bachelors of Science</b> in <span style={{ 'color': '#500000' }}><b>Computer Science</b></span> in <span style={{ 'color': '#500000' }}><b>2022</b></span>.
                     </p>
                     <p>
-                        I am interested in the fields of <b>software development</b>, cybersecurity, and product management.
-                    </p>
-                    <p>
-                        I have a certificate in <b>Holistic Leadership</b>.
+                        I am interested in the fields of <b>software development</b>, venture-captital, and high frequency trading.
                     </p>
                     <hr />
                 </div>
