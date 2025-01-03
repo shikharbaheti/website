@@ -13,7 +13,8 @@
     "react-dom": "^16.14.0",
     "react-router-dom": "^5.3.4",
     "react-scripts": "^5.0.1",
-    "react-scroll-up-button": "^1.6.4"
+    "react-scroll-up-button": "^1.6.4",
+    "webpack": "^5.97.1"
   },
   "scripts": {
     "start": "react-scripts start",
