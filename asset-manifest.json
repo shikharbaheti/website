@@ -1,29 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.a0e22a5a.css",
-    "main.js": "/static/js/main.847fd716.js",
-    "static/media/flc.jpg": "/static/media/flc.876385adc54bb85523d5.jpg",
-    "static/media/alot.jpg": "/static/media/alot.21753fd535e080320749.jpg",
-    "static/media/flavourlogo.png": "/static/media/flavourlogo.5d3f2bc364855c98966f.png",
-    "static/media/sec.png": "/static/media/sec.438009e5f33b3f8aea70.png",
-    "static/media/envision.png": "/static/media/envision.58dd8077c3f86271ab5f.png",
-    "static/media/aquarium.png": "/static/media/aquarium.49a2bb0ea34b714e72ed.png",
-    "static/media/div_it.jpg": "/static/media/div_it.9715cc2e6029feaf53e2.jpg",
-    "static/media/msc_spencer.png": "/static/media/msc_spencer.6ccad4c3abf32e7e326d.png",
-    "static/media/college_of_engr.png": "/static/media/college_of_engr.8130bbca1fcdbdc7c5b3.png",
-    "static/media/big_event.jpg": "/static/media/big_event.916f4f69ec00a288aa2e.jpg",
-    "static/media/molecula-logo.jpg": "/static/media/molecula-logo.3d51143a1d047a49c7fe.jpg",
-    "static/media/csce.png": "/static/media/csce.1ae4927ea4fc68291c67.png",
-    "static/media/cap1.png": "/static/media/cap1.6361ff6eb7ef54a71871.png",
+    "main.css": "/static/css/main.7d1ea69d.css",
+    "main.js": "/static/js/main.98a2abbd.js",
     "static/media/instagram.png": "/static/media/instagram.aaa207e2a8befba56120.png",
-    "static/media/society-hub.PNG": "/static/media/society-hub.a4e5d723f0ea4c0af73b.PNG",
-    "static/media/portfolio.PNG": "/static/media/portfolio.4cbaf89953fb3e16eaee.PNG",
     "index.html": "/index.html",
-    "main.a0e22a5a.css.map": "/static/css/main.a0e22a5a.css.map",
-    "main.847fd716.js.map": "/static/js/main.847fd716.js.map"
+    "main.7d1ea69d.css.map": "/static/css/main.7d1ea69d.css.map",
+    "main.98a2abbd.js.map": "/static/js/main.98a2abbd.js.map"
   },
   "entrypoints": [
-    "static/css/main.a0e22a5a.css",
-    "static/js/main.847fd716.js"
+    "static/css/main.7d1ea69d.css",
+    "static/js/main.98a2abbd.js"
   ]
 }
