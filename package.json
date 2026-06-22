@@ -11,7 +11,7 @@
     "react": "^16.14.0",
     "react-bootstrap": "^1.6.8",
     "react-dom": "^16.14.0",
-    "react-router-dom": "^5.3.4",
+    "react-router-dom": "^7.5.2",
     "react-scripts": "^5.0.1",
     "react-scroll-up-button": "^1.6.4",
     "webpack": "^5.101.0"
