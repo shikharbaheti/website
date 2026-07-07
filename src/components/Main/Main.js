@@ -34,6 +34,9 @@ function Main() {
                             <a href="mailto:shikhar@tamu.edu">
                                 <Button variant="outline-dark" size="lg" className="navlinks m-2"><b>E-mail</b></Button>
                             </a>
+                            <Link to="/blog">
+                                <Button variant="outline-dark" size="lg" className="navlinks m-2"><b>Blog</b></Button>
+                            </Link>
                             {/* <Link to="/experience">
                                 <Button variant="outline-dark" size="lg" className="navlinks m-2"><b>Experience</b></Button>
                             </Link>
